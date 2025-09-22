@@ -1,0 +1,8 @@
+Dashboard – Overview of sales, orders, and inventory.
+Manage Products – Add, update, delete, and view products.
+Orders – View, process, and update order statuses.
+Users – Manage registered users.
+Categories – Add and organize toy categories.
+Reports & Analytics – Generate & export sales reports.
+Reviews – Moderate customer reviews.
+Profile – Update admin details & change password.
